@@ -1,5 +1,7 @@
 # udacity_datascience_capstone
 
+For a full report visit: https://christoph-emmert.medium.com/how-to-crack-starbucks-user-behaviour-related-to-promotional-offers-4c5f4622c842
+
 ## Objective & overview
 Goal of the project is to analyze data from Starbucks about their consumer behaviour regarding to certain offer strategies. It should be analyzed which offer strategies apply to which group of customers best, if there is a significant difference between groups. With this in mind Starbucks could gain insights about the way how to best promote and offer coupons and increase the efficacy of such offers.
 
